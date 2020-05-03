@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#maintab  {
+  margin-bottom: 0px !important; 
+}
+#mainContentDashboard {
+  padding: 1rem 0rem !important;
+}
+
+.listItemdiv {
+  display: inline-block; width: 100%
+} 
+.listItemdiv .leftdiv{
+  float:left
+}  
+.listItemdiv .rightdiv{
+  float:right
+} 
+.paddingleft {
+  padding-left: 10px;
+}
